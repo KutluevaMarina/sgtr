@@ -73,7 +73,7 @@ int size = Convert.ToInt32(Console.ReadLine());
 int[] newArray =CreateRandomArray(size);
 ShowArray(newArray);
 FindSumArray(newArray);*/
-
+//
 
 
 
